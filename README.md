@@ -2,7 +2,7 @@
 
 **SINfi** is an automated WiFi auditing tool for Linux based operating systems. It is designed to act as an extension and wrapper for `wifite`, streamlining the process of attacking WiFi networks to crack their passwords.
 
-*Script by [Scroll](https://github.com/infinite667) (@itsScroll on Telegram)*
+*Script by [infinite667](https://github.com/infinite667) (@itsinfinite667 on Telegram)*
 
 ---
 

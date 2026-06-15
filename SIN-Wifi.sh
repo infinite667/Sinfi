@@ -4,9 +4,9 @@
 #                         SINfi for Linux
 #
 #                             Welcome
-#                         SINfi By Scroll
+#                         SINfi By infinite667
 #              Tested On Debian Based Operating System
-#                      Telegram : @itsScroll
+#                      Telegram : @itsinfinite667
 # Information : This program is used to attack WIFI to a numerous types of attacks and crack their passowrds
 #============================================================================================================
 
@@ -73,10 +73,10 @@ echo "                    88000000008880#      000    "
 echo "                          9               0 "
 echo -e $okegreen"";
 echo -e $okegreen"-------------------------------------------------------------------------";
-echo -e $cyan"    Script by           $white":" $red Scroll"
+echo -e $cyan"    Script by           $white":" $red infinite667"
 echo -e $cyan"    Version             $white":" $red $Version  "
 echo -e $cyan"    Codename            $white":" $red $Codename "
-echo -e $cyan"    Add me on Telegram  $white":" $red @itsScroll "
+echo -e $cyan"    Add me on Telegram  $white":" $red @itsinfinite667 "
 echo -e $okegreen"-------------------------------------------------------------------------";
 echo -e $okegreen"";
 
@@ -156,10 +156,10 @@ echo "                    88000000008880#      000    "
 echo "                          9               0 "
 echo -e $okegreen"";
 echo -e $okegreen"-------------------------------------------------------------------------";
-echo -e $cyan"    Script by           $white":" $red Scroll"
+echo -e $cyan"    Script by           $white":" $red infinite667"
 echo -e $cyan"    Version             $white":" $red $Version  "
 echo -e $cyan"    Codename            $white":" $red $Codename "
-echo -e $cyan"    Add me on Telegram  $white":" $red @itsScroll "
+echo -e $cyan"    Add me on Telegram  $white":" $red @itsinfinite667 "
 echo -e $okegreen"-------------------------------------------------------------------------";
 echo -e $okegreen"";
 		echo -e $white " "
@@ -257,10 +257,10 @@ echo "                    88000000008880#      000    "
 echo "                          9               0 "
 echo -e $okegreen"";
 echo -e $okegreen"-------------------------------------------------------------------------";
-echo -e $cyan"    Script by           $white":" $red Scroll"
+echo -e $cyan"    Script by           $white":" $red infinite667"
 echo -e $cyan"    Version             $white":" $red $Version  "
 echo -e $cyan"    Codename            $white":" $red $Codename "
-echo -e $cyan"    Add me on Telegram  $white":" $red @itsScroll "
+echo -e $cyan"    Add me on Telegram  $white":" $red @itsinfinite667 "
 echo -e $okegreen"-------------------------------------------------------------------------";
 echo -e $okegreen"";
 		echo -e $white " "

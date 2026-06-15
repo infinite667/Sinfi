@@ -1,0 +1,7 @@
+Crack with wordlist :
+aircrack-ng *handshake -b *Target BSSID*  -w *wordlist*
+
+Pipeline
+crunch *min_char* *max_char* *characters* | aircrack-ng *handshake* -b *Target BSSID* -w-
+
+On Both cases please use the cpulimit if you see that your cpu is overheating // By Scroll
